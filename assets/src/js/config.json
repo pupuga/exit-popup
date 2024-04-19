@@ -1,0 +1,6 @@
+{
+  "selector": "exit-popup",
+  "cookieViewName": "exit_popup_view",
+  "cookieEventName": "exit_popup_event",
+  "cookieCount": "exit_popup_count"
+}
